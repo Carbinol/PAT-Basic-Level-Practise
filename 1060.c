@@ -19,7 +19,7 @@ void sort(int*a,int n)
 int main()
 {
     int n,i,j,e=0;
-    int p[200000];
+    int p[100000];
     scanf("%d",&n);
     j=n-1;
     for(i=0;i<n;i++)
